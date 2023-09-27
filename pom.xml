@@ -32,6 +32,12 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>ru.d-shap</groupId>
+            <artifactId>hex</artifactId>
+            <version>1.2</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
 
     <build>
